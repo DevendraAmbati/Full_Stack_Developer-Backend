@@ -32,7 +32,7 @@ Navbar with authentication state
 Dashboard-style task layout
 ⚙️ Setup Instructions
 📁 1. Clone Repository
-git clone https://github.com/your-username/task-manager.git
+git clone https://github.com/DevendraAmbati/Full_Stack_Developer-Backend.git
 cd task-manager
 🔧 Backend Setup
 cd backend
@@ -45,7 +45,7 @@ DB_PASSWORD=yourpassword
 DB_HOST=localhost
 JWT_SECRET=your_secret_key
 Run backend:
-node server.js
+npm run dev
 
 
 💻 Frontend Setup
@@ -74,10 +74,6 @@ Token sent in headers for protected routes
 🌍 Deployment
 Frontend:
 Vercel / Netlify
-Backend:
-Render / Railway
-Database:
-Railway PostgreSQL / Supabase
 📸 Screens (Optional)
 Home Page
 Login Page
@@ -90,9 +86,10 @@ Sequelize ORM with relationships
 Clean and responsive UI
 Real-world SaaS architecture
 📎 Submission Links
-🔗 GitHub Repo: (Add your link)
-🌐 Live App: (Add deployment link)
-💼 Portfolio: (Optional)
+🔗 GitHub Repo Backend: https://github.com/DevendraAmbati/Full_Stack_Developer-Backend.git
+🔗 GitHub Repo frontend: https://github.com/DevendraAmbati/Full_Stack_Developer-Frontend.git
+🌐 Live App: https://full-stack-developer-frontend.vercel.app/
+💼 Portfolio: https://devendra-portfolio-murex.vercel.app/
 👨‍💻 Author
 
 Devendra Ambati
